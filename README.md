@@ -2,5 +2,5 @@
 Fake DDoS
 
 How to run:
-cd DdosUkraine \n
+cd DdosUkraine
 python3 Uragan.py -t <IP> -p <PORT>
